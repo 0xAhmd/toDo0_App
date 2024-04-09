@@ -12,7 +12,8 @@ A simple todo application built with Flutter.
 
 1. Clone the repository:
 
-   ```sh (https://github.com/0xAhmd/toDo0_App.git)
+   ```sh
+ =>> (https://github.com/0xAhmd/toDo0_App.git)
 
 2. Navigate to the project directory:
 
